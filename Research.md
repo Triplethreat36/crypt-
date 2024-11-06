@@ -11,3 +11,5 @@ the dungions and cyrps of skyrim have some good open room were it would make a g
 ![image](https://github.com/user-attachments/assets/c2d9a6b2-bbc7-483c-92be-dc41c9e9a959)
 I realy dig the lay out of the souls serioes so the Catacombs of Carthus has nice grave stones and the pillars look realy good and something i want to add
 
+![image](https://github.com/user-attachments/assets/7f41f871-a7c9-4198-a8a3-c47468450e1d)
+once again the Catacombs of Carthus with the bone on the ground stick with the theme the dark theme om going for
