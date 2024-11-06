@@ -13,3 +13,9 @@ I realy dig the lay out of the souls serioes so the Catacombs of Carthus has nic
 
 ![image](https://github.com/user-attachments/assets/7f41f871-a7c9-4198-a8a3-c47468450e1d)
 once again the Catacombs of Carthus with the bone on the ground stick with the theme the dark theme om going for
+
+Moodboaard
+
+![IMG_6038](https://github.com/user-attachments/assets/0d08083d-041a-4178-92d2-6795a2386dca)
+so this cosept moodboard contains the entrance of the first image, the hall way of the skuls of the 2nd and 5th. the hallway of the 4
+
