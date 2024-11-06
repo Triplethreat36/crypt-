@@ -17,5 +17,5 @@ once again the Catacombs of Carthus with the bone on the ground stick with the t
 Moodboaard
 
 ![IMG_6038](https://github.com/user-attachments/assets/0d08083d-041a-4178-92d2-6795a2386dca)
-so this cosept moodboard contains the entrance of the first image, the hall way of the skuls of the 2nd and 5th. the hallway of the 4
+so this cosept moodboard contains the entrance of the first image, the hall way of the skuls of the 2nd and 5th. the hallway of the 4 and the stone coffins of the 3rd.
 
