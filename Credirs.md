@@ -1,4 +1,4 @@
-The main theme is a dark, and scary like a crypt.
+Wads used and were I found them
 
 
 (dethtexgoth) https://www.quaddicted.com/files/wads/
