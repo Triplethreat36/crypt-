@@ -1,4 +1,5 @@
 in area 1 we have the opening cathedral
+
 ![IMG_6058 (2)](https://github.com/user-attachments/assets/700c299f-553a-4298-b77b-c424bfe8bd8b)
 
 in area 2 nd 3 we have the entrance and the cypts and broken briger as 2. 3 is a puzzle room with a lock door
