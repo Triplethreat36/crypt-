@@ -5,4 +5,4 @@ post after cathedral into the dark truth behind the cathedral
  
 2 [Theme](https://github.com/Triplethreat36/crypt-/blob/main/theme.md)
 
-3 [Research](https://github.com/Triplethreat36/crypt-/tree/main)
+3 [Research]([https://github.com/Triplethreat36/crypt-/tree/main](https://github.com/Triplethreat36/crypt-/blob/main/Research.md))
