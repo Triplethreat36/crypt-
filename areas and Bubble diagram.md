@@ -10,6 +10,7 @@ area 5 is the trap room wih the key. once player enter they cant leave were they
 
 area 6 is the big boss that was summoned in that has to be destryed
 
+AREA Sheet
 
 in area 1 we have the opening cathedral
 
