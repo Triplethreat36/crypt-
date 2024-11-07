@@ -27,4 +27,5 @@ Bubble Diagram
 
 so the play start from the outside of the cathedral then goes into the opening to the crypt the progress to the seal of room next is to the open room then the trap room then back to the open room then tpo boss room.
 
-![IMG_6060 (1)](https://github.com/user-attachments/assets/287d6e99-9b5f-4ecf-ad37-0474f81df871)
+![IMG_6061 (1)](https://github.com/user-attachments/assets/3f592718-24a4-4d90-a6b4-2164baa39ac7)
+
