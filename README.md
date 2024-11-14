@@ -1,5 +1,5 @@
 # crypt-
-post after cathedral into the dark truth behind the cathedral 
+post after cathedral into the dark truth behind the cathedral. The crypt was easy to get in because it ment to keep the things inside.
 
 1 [credits](https://github.com/Triplethreat36/crypt-/blob/main/Credits.md)
  
