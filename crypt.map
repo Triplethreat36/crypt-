@@ -1045,6 +1045,7 @@
 {
 "classname" "monster_knight"
 "origin" "-974 1754 2848"
+"angle" "270"
 }
 // entity 4
 {
