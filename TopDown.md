@@ -1,3 +1,5 @@
+Top Down
+
 In area 2 the player will be inside the crypt. They will face 2 knights. past that there will be a hallway with a lock door and a room to the left. The room will have ammo and health and a grenade launcher. the button will be next to the door to open. The player will use the rocket launcher to kill zombie 2 on their path and then cross a fallen pillar and kill 2 more zombies.
 
 ![Screenshot 2024-11-13 200523](https://github.com/user-attachments/assets/d6d975e2-b2fb-4a96-81dd-630d81d73e11)
