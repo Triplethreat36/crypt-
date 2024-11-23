@@ -12,3 +12,5 @@ post after cathedral into the dark truth behind the cathedral. The crypt was eas
 5 [Top Down](https://github.com/Triplethreat36/crypt-/blob/main/TopDown.md)
 
 6 [blockout](https://github.com/Triplethreat36/crypt-/blob/main/blockout.md)
+
+7 [playtest](https://github.com/Triplethreat36/crypt-/blob/main/playtest.md)
