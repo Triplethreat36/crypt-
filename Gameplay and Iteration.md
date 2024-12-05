@@ -1,4 +1,4 @@
-1. The fix was to move the button in the first room so the player can get an important weapon.
+1. The fix was to move the button in the first room so the player can get an important weapon before entring the room with the zombies.
    
 2. Add less enemies by 1 in the room with the zombies and death knight and knights.
    
