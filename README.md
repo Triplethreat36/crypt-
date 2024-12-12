@@ -16,3 +16,7 @@ post after cathedral into the dark truth behind the cathedral. The crypt was eas
 7 [playtest](https://github.com/Triplethreat36/crypt-/blob/main/playtest.md)
 
 8 [Gameplay and Iteration](https://github.com/Triplethreat36/crypt-/blob/main/Gameplay%20and%20Iteration.md)
+
+Final realse
+
+https://github.com/Triplethreat36/crypt-/releases/tag/v1.0.0
